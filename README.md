@@ -1,14 +1,9 @@
-# Mock Host
+# ncbrick page
 
-Make a mock data host by github page
+提供 ncbrick 的一些数据或静态资源
 
-## How to use
+## 如果增加 Demo 数据
 
-1. 新增 mock 数据文件。如 user-widgets.json
-
-2. 新增与之对应的逻辑处理脚本，如 user-widgets.js
-
-3. 在 /data/index.js 中增加逻辑处理脚本
-
-4. 运行 `node index.js` 即可（这一步会将生成在 dist 目录中文件发布到 github page 上）
+1. 在 `data/assets` 目录增加 ncbrick-x.json（配置文件） 和 ncbrick-x.png（缩略图） 文件
+2. 在根目录运行 `node index.js` 即可
 

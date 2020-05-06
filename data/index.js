@@ -1,7 +1,5 @@
-const userWidgets = require('./user-widgets');
-const users = require('./users');
+const assetsHandler = require('./assets-handler');
 
 module.exports = async () => {
-    await userWidgets();
-    await users();
+    await assetsHandler();
 }

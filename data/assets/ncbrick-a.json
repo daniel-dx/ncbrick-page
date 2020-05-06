@@ -1,0 +1,673 @@
+{
+  "root": true,
+  "className": "",
+  "type": "block",
+  "styleObj": {
+    "display": "flex",
+    "boxSizing": "border-box",
+    "flexDirection": "column",
+    "justifyContent": "flex-start",
+    "alignItems": "stretch",
+    "flexBasis": "100%",
+    "width": "",
+    "height": "",
+    "margin": "0px",
+    "padding": "0px",
+    "flexWrap": "nowrap",
+    "minWidth": "100%",
+    "minHeight": "100%",
+    "flex": 1,
+    "overflow": ""
+  },
+  "styleStr": "background-image: url(http://daniel-test.image.alimmdn.com/ncbrick/demo/3.png);",
+  "children": [
+    {
+      "root": false,
+      "id": "25aeeee8e3dbaeb11a2d5d79024b2de3",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "alignItems": "stretch",
+        "flexBasis": "",
+        "width": "",
+        "height": "",
+        "margin": "0px ",
+        "padding": "10px 0",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "background: rgba(0,0,0,0.20);",
+      "children": [
+        {
+          "root": false,
+          "id": "43a8c777d034c5533d6e78119e50910a",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "textAlign": "left",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "__whiteSpace__": "normal"
+          },
+          "styleStr": "font-size: 14px;\ncolor: #FFFFFF;",
+          "content": "限时优惠！！G3上市一周年，购车立减2000",
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "f42a96ec74ced9f38b15dda390a26c55",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "flexBasis": "",
+        "width": "",
+        "height": "",
+        "margin": "43.5px 0 0 0",
+        "padding": "0px",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "",
+      "children": [
+        {
+          "root": false,
+          "id": "30f24b73b339e260536d53ee5e13ffbc",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "40px",
+            "width": "",
+            "height": "37px",
+            "margin": "0px 26.5px 0 0",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "",
+          "children": [],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "5255b736132d6a7aff4d8475da2f9e62",
+          "className": "",
+          "type": "image",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "overflow": "hidden",
+            "flexShrink": 0,
+            "width": "210px",
+            "height": "55px",
+            "borderRadius": "0px",
+            "margin": "0px",
+            "padding": "0px"
+          },
+          "styleStr": "",
+          "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/1.png",
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "07c4c05a6894d107cb3db3f30a273e10",
+          "className": "",
+          "type": "image",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "overflow": "hidden",
+            "flexShrink": 0,
+            "width": "40px",
+            "height": "37px",
+            "borderRadius": "0px",
+            "margin": "0px 0 0 26.5px",
+            "padding": "0px"
+          },
+          "styleStr": "",
+          "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/5.png",
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "4cebaee761dc822261de30a62ff56b1b",
+      "className": "",
+      "type": "image",
+      "styleObj": {
+        "boxSizing": "border-box",
+        "overflow": "hidden",
+        "flexShrink": 0,
+        "width": "",
+        "height": "144px",
+        "borderRadius": "0px",
+        "margin": "52.5px 0 0 0",
+        "padding": "0px"
+      },
+      "styleStr": "",
+      "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/2.png",
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "da80fa698e80d57c6418eb409fc6c51c",
+      "className": "",
+      "type": "text",
+      "styleObj": {
+        "boxSizing": "border-box",
+        "textAlign": "center",
+        "width": "",
+        "height": "",
+        "margin": "50px 0 0 0",
+        "padding": "0px",
+        "__whiteSpace__": "normal"
+      },
+      "styleStr": "ont-size: 16px;\ncolor: #0F1520;\nline-height: 14px;",
+      "content": "预售价：24万-37万",
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "be09f5b3449a66a8955b7ee6cd53f6e6",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "flexBasis": "",
+        "width": "",
+        "height": "",
+        "margin": "20px 0 0 0",
+        "padding": "0px 45px",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "",
+      "children": [
+        {
+          "root": false,
+          "id": "24acdd911a9b8d94533e73babdf0b453",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "column",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "482099bd076068e8ab881a2cc5d07bbd",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "boxSizing": "border-box",
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "margin": "0px",
+                "padding": "0px",
+                "__whiteSpace__": "normal"
+              },
+              "styleStr": "font-size: 12px;\ncolor: #0F1520;",
+              "content": "XPILOT 3.0",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "f1b43a098b4ec0701647a0955ed1b4c2",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "boxSizing": "border-box",
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "margin": "2px 0 0 0",
+                "padding": "0px",
+                "__whiteSpace__": "normal"
+              },
+              "styleStr": "opacity: 0.83;\nfont-size: 10px;\ncolor: #0F1520;\nline-height: 12px;",
+              "content": "自动驾驶辅助系统",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "c40ed06cf1930b58e59f9d58e1284253",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "1PX",
+            "width": "",
+            "height": "23.5px",
+            "margin": "0px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "opacity: 0.5;\nbackground-color:#222426;",
+          "children": [],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "05521d294252cd3e67dd98f48a9b5db9",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "column",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "ddbeea4a34c1443624248bf4af5bd91e",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "boxSizing": "border-box",
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "margin": "0px",
+                "padding": "0px",
+                "__whiteSpace__": "normal"
+              },
+              "styleStr": "font-size: 12px;\ncolor: #0F1520;",
+              "content": "4.3 秒",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "40612c0f24f106e27605e4a388a0b079",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "boxSizing": "border-box",
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "margin": "2px 0 0 0",
+                "padding": "0px",
+                "__whiteSpace__": "normal"
+              },
+              "styleStr": "opacity: 0.83;\nfont-size: 10px;\ncolor: #0F1520;\nline-height: 12px;",
+              "content": "百公里加速",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "5518b7a27c0875a55e6cd15e7a0ab96c",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "1PX",
+            "width": "",
+            "height": "23.5px",
+            "margin": "0px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "opacity: 0.5;\nbackground-color:#222426;",
+          "children": [],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "7382183354545ca19968232198aaed2f",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "column",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "68ad8661c43486842504bc70572ee692",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "boxSizing": "border-box",
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "margin": "0px",
+                "padding": "0px",
+                "__whiteSpace__": "normal"
+              },
+              "styleStr": "font-size: 12px;\ncolor: #0F1520;",
+              "content": "650+ km",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "6b139d15373a825583b3130d4d1c25f3",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "boxSizing": "border-box",
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "margin": "2px 0 0 0",
+                "padding": "0px",
+                "__whiteSpace__": "normal"
+              },
+              "styleStr": "opacity: 0.83;\nfont-size: 10px;\ncolor: #0F1520;\nline-height: 12px;",
+              "content": "NEDC综合续航",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "b2131355b0f3ba95290b4afc71c19af0",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "flexBasis": "5.5px",
+        "width": "",
+        "height": "",
+        "margin": "48px 0 0 0",
+        "padding": "0px",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "",
+      "children": [
+        {
+          "root": false,
+          "id": "c7d46d956eafa147564db41913238082",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "textAlign": "left",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "__whiteSpace__": "normal"
+          },
+          "styleStr": "font-size: 14px;\ncolor: #0F1520;\nline-height: 18px;",
+          "content": "了解详情",
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "5b41e9327cb17f4f88cbca23cbb73edd",
+          "className": "",
+          "type": "image",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "overflow": "hidden",
+            "flexShrink": 0,
+            "width": "5.5px",
+            "height": "",
+            "borderRadius": "0px",
+            "margin": "0px 0 0 5px",
+            "padding": "0px"
+          },
+          "styleStr": "",
+          "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/4.png",
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "443245a03762e95169ce008d63a583f5",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "alignItems": "stretch",
+        "flexBasis": "",
+        "width": "300px",
+        "height": "",
+        "margin": "8.5px auto 0 auto",
+        "padding": "13.5px 0",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "background: #0F1520;\nborder-radius: 25px;",
+      "children": [
+        {
+          "root": false,
+          "id": "2f1f2f23157601a634b789831152d609",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "textAlign": "left",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "__whiteSpace__": "normal"
+          },
+          "styleStr": "font-size: 14px;\ncolor: #FFFFFF;\nline-height: 18px;",
+          "content": "立即预订",
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "eb81201e511bf7a9aeac6c7b59ebfa68",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "alignItems": "stretch",
+        "flexBasis": "",
+        "width": "",
+        "height": "",
+        "margin": "12.5px 0 0 0",
+        "padding": "0px",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "",
+      "children": [
+        {
+          "root": false,
+          "id": "d4e50e31af1d120e13934fcd75303219",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "5px",
+            "width": "",
+            "height": "5px",
+            "margin": "0px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "background: #0F1520;\nborder-radius: 100%;",
+          "children": [],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "b2bd3107c6be968f6f3cef558efa1675",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "boxSizing": "border-box",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexBasis": "5px",
+            "width": "",
+            "height": "5px",
+            "margin": "0px 0 0 4px",
+            "padding": "0px",
+            "flexWrap": "nowrap",
+            "overflow": ""
+          },
+          "styleStr": "opacity: 0.4;\nbackground: #0F1520;\nborder-radius: 100%;",
+          "children": [],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "c4e74391016d0f013cdd16e92352ccae",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "boxSizing": "border-box",
+        "flexDirection": "column",
+        "justifyContent": "flex-start",
+        "alignItems": "stretch",
+        "flexBasis": "",
+        "width": "335px",
+        "height": "",
+        "margin": "50px auto 0 auto",
+        "padding": "9px 40px 15px 40px",
+        "flexWrap": "nowrap",
+        "overflow": ""
+      },
+      "styleStr": "background-image: linear-gradient(168deg, #577DB4 0%, #11356B 100%);\nborder-radius: 8px;",
+      "children": [
+        {
+          "root": false,
+          "id": "d154536993d9b2f2b06958b5a8a9c045",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "textAlign": "left",
+            "width": "",
+            "height": "",
+            "margin": "0px",
+            "padding": "0px",
+            "__whiteSpace__": "normal"
+          },
+          "styleStr": "opacity: 0.8;\nfont-size: 12px;\ncolor: #FFFFFF;\nline-height: 16px;",
+          "content": "G3 2020款 全新上市",
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "28df6135ffd105f859dc6adc3a4debc0",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "boxSizing": "border-box",
+            "textAlign": "left",
+            "width": "",
+            "height": "",
+            "margin": "2px 0 0 0",
+            "padding": "0px",
+            "__whiteSpace__": "normal"
+          },
+          "styleStr": "font-size: 18px;\ncolor: #FFFFFF;\nletter-spacing: 0.82px;\ntext-align: left;\nline-height: 24px;\ntext-shadow: 0 4px 8px rgba(32,62,107,0.08);",
+          "content": "特惠仅剩3天！",
+          "level": 2
+        }
+      ],
+      "level": 1
+    }
+  ],
+  "level": 0
+}
