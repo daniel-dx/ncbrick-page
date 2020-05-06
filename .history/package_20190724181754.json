@@ -1,0 +1,25 @@
+{
+  "name": "mock-host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-dx/mock-host.git"
+  },
+  "author": "daniel.xiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-dx/mock-host/issues"
+  },
+  "homepage": "https://github.com/daniel-dx/mock-host#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "fs-extra": "^8.0.1",
+    "gh-pages": "^2.0.1",
+    "ora": "^3.4.0"
+  }
+}
