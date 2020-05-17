@@ -4,263 +4,163 @@
   "type": "block",
   "styleObj": {
     "display": "flex",
-    "boxSizing": "border-box",
     "flexDirection": "column",
     "justifyContent": "flex-start",
     "alignItems": "stretch",
-    "flexBasis": "100%",
-    "width": "",
-    "height": "",
-    "margin": "0px",
-    "padding": "0px",
     "flexWrap": "nowrap",
+    "__flexBasis__": "100%",
+    "__width__": "",
+    "__height__": "",
+    "__margin__": {},
+    "__padding__": {},
     "minWidth": "100%",
     "minHeight": "100%",
     "flex": 1,
-    "overflow": ""
+    "__bgImg__": ""
   },
-  "styleStr": "background-image: url(http://daniel-test.image.alimmdn.com/ncbrick/demo/3.png);",
+  "styleStr": "position: relative;",
   "children": [
     {
       "root": false,
-      "id": "25aeeee8e3dbaeb11a2d5d79024b2de3",
+      "id": "945fc9e0eb687a48da6424c2b81fde63",
       "className": "",
       "type": "block",
       "styleObj": {
         "display": "flex",
-        "boxSizing": "border-box",
         "flexDirection": "row",
-        "justifyContent": "center",
-        "alignItems": "stretch",
-        "flexBasis": "",
-        "width": "",
-        "height": "",
-        "margin": "0px ",
-        "padding": "10px 0",
-        "flexWrap": "nowrap",
-        "overflow": ""
-      },
-      "styleStr": "background: rgba(0,0,0,0.20);",
-      "children": [
-        {
-          "root": false,
-          "id": "43a8c777d034c5533d6e78119e50910a",
-          "className": "",
-          "type": "text",
-          "styleObj": {
-            "boxSizing": "border-box",
-            "textAlign": "left",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "__whiteSpace__": "normal"
-          },
-          "styleStr": "font-size: 14px;\ncolor: #FFFFFF;",
-          "content": "限时优惠！！G3上市一周年，购车立减2000",
-          "level": 2
-        }
-      ],
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "f42a96ec74ced9f38b15dda390a26c55",
-      "className": "",
-      "type": "block",
-      "styleObj": {
-        "display": "flex",
-        "boxSizing": "border-box",
-        "flexDirection": "row",
-        "justifyContent": "center",
+        "justifyContent": "flex-start",
         "alignItems": "center",
-        "flexBasis": "",
-        "width": "",
-        "height": "",
-        "margin": "43.5px 0 0 0",
-        "padding": "0px",
         "flexWrap": "nowrap",
-        "overflow": ""
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {},
+        "__padding__": {},
+        "__bgImg__": ""
       },
       "styleStr": "",
       "children": [
         {
           "root": false,
-          "id": "30f24b73b339e260536d53ee5e13ffbc",
+          "id": "1d0bb48e0b02505f9fbd4cd65b1a59f4",
           "className": "",
           "type": "block",
           "styleObj": {
             "display": "flex",
-            "boxSizing": "border-box",
             "flexDirection": "row",
             "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "40px",
-            "width": "",
-            "height": "37px",
-            "margin": "0px 26.5px 0 0",
-            "padding": "0px",
+            "alignItems": "center",
             "flexWrap": "nowrap",
-            "overflow": ""
-          },
-          "styleStr": "",
-          "children": [],
-          "level": 2
-        },
-        {
-          "root": false,
-          "id": "5255b736132d6a7aff4d8475da2f9e62",
-          "className": "",
-          "type": "image",
-          "styleObj": {
-            "boxSizing": "border-box",
-            "overflow": "hidden",
-            "flexShrink": 0,
-            "width": "210px",
-            "height": "55px",
-            "borderRadius": "0px",
-            "margin": "0px",
-            "padding": "0px"
-          },
-          "styleStr": "",
-          "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/1.png",
-          "level": 2
-        },
-        {
-          "root": false,
-          "id": "07c4c05a6894d107cb3db3f30a273e10",
-          "className": "",
-          "type": "image",
-          "styleObj": {
-            "boxSizing": "border-box",
-            "overflow": "hidden",
-            "flexShrink": 0,
-            "width": "40px",
-            "height": "37px",
-            "borderRadius": "0px",
-            "margin": "0px 0 0 26.5px",
-            "padding": "0px"
-          },
-          "styleStr": "",
-          "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/5.png",
-          "level": 2
-        }
-      ],
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "4cebaee761dc822261de30a62ff56b1b",
-      "className": "",
-      "type": "image",
-      "styleObj": {
-        "boxSizing": "border-box",
-        "overflow": "hidden",
-        "flexShrink": 0,
-        "width": "",
-        "height": "144px",
-        "borderRadius": "0px",
-        "margin": "52.5px 0 0 0",
-        "padding": "0px"
-      },
-      "styleStr": "",
-      "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/2.png",
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "da80fa698e80d57c6418eb409fc6c51c",
-      "className": "",
-      "type": "text",
-      "styleObj": {
-        "boxSizing": "border-box",
-        "textAlign": "center",
-        "width": "",
-        "height": "",
-        "margin": "50px 0 0 0",
-        "padding": "0px",
-        "__whiteSpace__": "normal"
-      },
-      "styleStr": "ont-size: 16px;\ncolor: #0F1520;\nline-height: 14px;",
-      "content": "预售价：24万-37万",
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "be09f5b3449a66a8955b7ee6cd53f6e6",
-      "className": "",
-      "type": "block",
-      "styleObj": {
-        "display": "flex",
-        "boxSizing": "border-box",
-        "flexDirection": "row",
-        "justifyContent": "space-between",
-        "alignItems": "center",
-        "flexBasis": "",
-        "width": "",
-        "height": "",
-        "margin": "20px 0 0 0",
-        "padding": "0px 45px",
-        "flexWrap": "nowrap",
-        "overflow": ""
-      },
-      "styleStr": "",
-      "children": [
-        {
-          "root": false,
-          "id": "24acdd911a9b8d94533e73babdf0b453",
-          "className": "",
-          "type": "block",
-          "styleObj": {
-            "display": "flex",
-            "boxSizing": "border-box",
-            "flexDirection": "column",
-            "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "flexWrap": "nowrap",
-            "overflow": ""
+            "__flexBasis__": "630px",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {},
+            "__padding__": {
+              "left": 32,
+              "top": 32,
+              "bottom": 32
+            },
+            "__bgImg__": ""
           },
           "styleStr": "",
           "children": [
             {
               "root": false,
-              "id": "482099bd076068e8ab881a2cc5d07bbd",
+              "id": "76bb84dd1d1a4fd6c23b88a58c34961f",
               "className": "",
               "type": "text",
               "styleObj": {
-                "boxSizing": "border-box",
                 "textAlign": "left",
                 "width": "",
                 "height": "",
-                "margin": "0px",
-                "padding": "0px",
-                "__whiteSpace__": "normal"
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": "",
+                  "right": 32
+                },
+                "__padding__": {}
               },
-              "styleStr": "font-size: 12px;\ncolor: #0F1520;",
-              "content": "XPILOT 3.0",
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 30px;\ncolor: rgba(33,33,33,0.50);",
+              "content": "Hot",
               "level": 3
             },
             {
               "root": false,
-              "id": "f1b43a098b4ec0701647a0955ed1b4c2",
+              "id": "b1ee9606d1b0977626c51a758aa5f3cd",
               "className": "",
               "type": "text",
               "styleObj": {
-                "boxSizing": "border-box",
                 "textAlign": "left",
                 "width": "",
                 "height": "",
-                "margin": "2px 0 0 0",
-                "padding": "0px",
-                "__whiteSpace__": "normal"
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "right": 32
+                },
+                "__padding__": {}
               },
-              "styleStr": "opacity: 0.83;\nfont-size: 10px;\ncolor: #0F1520;\nline-height: 12px;",
-              "content": "自动驾驶辅助系统",
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 40px;\ncolor: #0F88E0;",
+              "content": "Movie",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "873bbe6e66cb6837cf020cfdc9ea77de",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": "",
+                  "right": 32
+                },
+                "__padding__": {}
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 30px;\ncolor: rgba(33,33,33,0.50);",
+              "content": "Showbiz",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "f34c9ccf5b8a5ed30ad135687cad0638",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": "",
+                  "right": 32
+                },
+                "__padding__": {}
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 30px;\ncolor: rgba(33,33,33,0.50);",
+              "content": "Cricket",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "03bca7ec2130552bb389674aecea138c",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": "",
+                  "right": 32
+                },
+                "__padding__": {}
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 30px;\ncolor: rgba(33,33,33,0.50);",
+              "content": "Lifestyle",
               "level": 3
             }
           ],
@@ -268,229 +168,50 @@
         },
         {
           "root": false,
-          "id": "c40ed06cf1930b58e59f9d58e1284253",
+          "id": "8d75149a8236905a4beaa0500eedb1a7",
           "className": "",
           "type": "block",
           "styleObj": {
             "display": "flex",
-            "boxSizing": "border-box",
             "flexDirection": "row",
             "justifyContent": "flex-start",
             "alignItems": "stretch",
-            "flexBasis": "1PX",
-            "width": "",
-            "height": "23.5px",
-            "margin": "0px",
-            "padding": "0px",
             "flexWrap": "nowrap",
-            "overflow": ""
+            "__flexBasis__": "1PX",
+            "__width__": "",
+            "__height__": "32px",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
           },
-          "styleStr": "opacity: 0.5;\nbackground-color:#222426;",
+          "styleStr": "background: rgba(0,0,0,0.10);",
           "children": [],
           "level": 2
         },
         {
           "root": false,
-          "id": "05521d294252cd3e67dd98f48a9b5db9",
-          "className": "",
-          "type": "block",
-          "styleObj": {
-            "display": "flex",
-            "boxSizing": "border-box",
-            "flexDirection": "column",
-            "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "flexWrap": "nowrap",
-            "overflow": ""
-          },
-          "styleStr": "",
-          "children": [
-            {
-              "root": false,
-              "id": "ddbeea4a34c1443624248bf4af5bd91e",
-              "className": "",
-              "type": "text",
-              "styleObj": {
-                "boxSizing": "border-box",
-                "textAlign": "left",
-                "width": "",
-                "height": "",
-                "margin": "0px",
-                "padding": "0px",
-                "__whiteSpace__": "normal"
-              },
-              "styleStr": "font-size: 12px;\ncolor: #0F1520;",
-              "content": "4.3 秒",
-              "level": 3
-            },
-            {
-              "root": false,
-              "id": "40612c0f24f106e27605e4a388a0b079",
-              "className": "",
-              "type": "text",
-              "styleObj": {
-                "boxSizing": "border-box",
-                "textAlign": "left",
-                "width": "",
-                "height": "",
-                "margin": "2px 0 0 0",
-                "padding": "0px",
-                "__whiteSpace__": "normal"
-              },
-              "styleStr": "opacity: 0.83;\nfont-size: 10px;\ncolor: #0F1520;\nline-height: 12px;",
-              "content": "百公里加速",
-              "level": 3
-            }
-          ],
-          "level": 2
-        },
-        {
-          "root": false,
-          "id": "5518b7a27c0875a55e6cd15e7a0ab96c",
-          "className": "",
-          "type": "block",
-          "styleObj": {
-            "display": "flex",
-            "boxSizing": "border-box",
-            "flexDirection": "row",
-            "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "1PX",
-            "width": "",
-            "height": "23.5px",
-            "margin": "0px",
-            "padding": "0px",
-            "flexWrap": "nowrap",
-            "overflow": ""
-          },
-          "styleStr": "opacity: 0.5;\nbackground-color:#222426;",
-          "children": [],
-          "level": 2
-        },
-        {
-          "root": false,
-          "id": "7382183354545ca19968232198aaed2f",
-          "className": "",
-          "type": "block",
-          "styleObj": {
-            "display": "flex",
-            "boxSizing": "border-box",
-            "flexDirection": "column",
-            "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "flexWrap": "nowrap",
-            "overflow": ""
-          },
-          "styleStr": "",
-          "children": [
-            {
-              "root": false,
-              "id": "68ad8661c43486842504bc70572ee692",
-              "className": "",
-              "type": "text",
-              "styleObj": {
-                "boxSizing": "border-box",
-                "textAlign": "left",
-                "width": "",
-                "height": "",
-                "margin": "0px",
-                "padding": "0px",
-                "__whiteSpace__": "normal"
-              },
-              "styleStr": "font-size: 12px;\ncolor: #0F1520;",
-              "content": "650+ km",
-              "level": 3
-            },
-            {
-              "root": false,
-              "id": "6b139d15373a825583b3130d4d1c25f3",
-              "className": "",
-              "type": "text",
-              "styleObj": {
-                "boxSizing": "border-box",
-                "textAlign": "left",
-                "width": "",
-                "height": "",
-                "margin": "2px 0 0 0",
-                "padding": "0px",
-                "__whiteSpace__": "normal"
-              },
-              "styleStr": "opacity: 0.83;\nfont-size: 10px;\ncolor: #0F1520;\nline-height: 12px;",
-              "content": "NEDC综合续航",
-              "level": 3
-            }
-          ],
-          "level": 2
-        }
-      ],
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "b2131355b0f3ba95290b4afc71c19af0",
-      "className": "",
-      "type": "block",
-      "styleObj": {
-        "display": "flex",
-        "boxSizing": "border-box",
-        "flexDirection": "row",
-        "justifyContent": "center",
-        "alignItems": "center",
-        "flexBasis": "5.5px",
-        "width": "",
-        "height": "",
-        "margin": "48px 0 0 0",
-        "padding": "0px",
-        "flexWrap": "nowrap",
-        "overflow": ""
-      },
-      "styleStr": "",
-      "children": [
-        {
-          "root": false,
-          "id": "c7d46d956eafa147564db41913238082",
-          "className": "",
-          "type": "text",
-          "styleObj": {
-            "boxSizing": "border-box",
-            "textAlign": "left",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "__whiteSpace__": "normal"
-          },
-          "styleStr": "font-size: 14px;\ncolor: #0F1520;\nline-height: 18px;",
-          "content": "了解详情",
-          "level": 2
-        },
-        {
-          "root": false,
-          "id": "5b41e9327cb17f4f88cbca23cbb73edd",
+          "id": "d47a686d2cb2def0ac8855d5d04132bf",
           "className": "",
           "type": "image",
           "styleObj": {
-            "boxSizing": "border-box",
             "overflow": "hidden",
             "flexShrink": 0,
-            "width": "5.5px",
-            "height": "",
+            "width": "90px",
+            "height": "112px",
             "borderRadius": "0px",
-            "margin": "0px 0 0 5px",
-            "padding": "0px"
+            "__margin__": {},
+            "__padding__": {
+              "left": 22,
+              "right": 22,
+              "top": 32,
+              "bottom": 32
+            },
+            "__borderRadius__": {
+              "top": ""
+            }
           },
           "styleStr": "",
-          "src": "http://daniel-test.image.alimmdn.com/ncbrick/demo/4.png",
+          "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_add.png",
           "level": 2
         }
       ],
@@ -498,176 +219,579 @@
     },
     {
       "root": false,
-      "id": "443245a03762e95169ce008d63a583f5",
+      "id": "b3014676da232a1a2e3f66007b9084f9",
       "className": "",
       "type": "block",
       "styleObj": {
         "display": "flex",
-        "boxSizing": "border-box",
-        "flexDirection": "row",
-        "justifyContent": "center",
-        "alignItems": "stretch",
-        "flexBasis": "",
-        "width": "300px",
-        "height": "",
-        "margin": "8.5px auto 0 auto",
-        "padding": "13.5px 0",
-        "flexWrap": "nowrap",
-        "overflow": ""
-      },
-      "styleStr": "background: #0F1520;\nborder-radius: 25px;",
-      "children": [
-        {
-          "root": false,
-          "id": "2f1f2f23157601a634b789831152d609",
-          "className": "",
-          "type": "text",
-          "styleObj": {
-            "boxSizing": "border-box",
-            "textAlign": "left",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "__whiteSpace__": "normal"
-          },
-          "styleStr": "font-size: 14px;\ncolor: #FFFFFF;\nline-height: 18px;",
-          "content": "立即预订",
-          "level": 2
-        }
-      ],
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "eb81201e511bf7a9aeac6c7b59ebfa68",
-      "className": "",
-      "type": "block",
-      "styleObj": {
-        "display": "flex",
-        "boxSizing": "border-box",
-        "flexDirection": "row",
-        "justifyContent": "center",
-        "alignItems": "stretch",
-        "flexBasis": "",
-        "width": "",
-        "height": "",
-        "margin": "12.5px 0 0 0",
-        "padding": "0px",
-        "flexWrap": "nowrap",
-        "overflow": ""
-      },
-      "styleStr": "",
-      "children": [
-        {
-          "root": false,
-          "id": "d4e50e31af1d120e13934fcd75303219",
-          "className": "",
-          "type": "block",
-          "styleObj": {
-            "display": "flex",
-            "boxSizing": "border-box",
-            "flexDirection": "row",
-            "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "5px",
-            "width": "",
-            "height": "5px",
-            "margin": "0px",
-            "padding": "0px",
-            "flexWrap": "nowrap",
-            "overflow": ""
-          },
-          "styleStr": "background: #0F1520;\nborder-radius: 100%;",
-          "children": [],
-          "level": 2
-        },
-        {
-          "root": false,
-          "id": "b2bd3107c6be968f6f3cef558efa1675",
-          "className": "",
-          "type": "block",
-          "styleObj": {
-            "display": "flex",
-            "boxSizing": "border-box",
-            "flexDirection": "row",
-            "justifyContent": "flex-start",
-            "alignItems": "stretch",
-            "flexBasis": "5px",
-            "width": "",
-            "height": "5px",
-            "margin": "0px 0 0 4px",
-            "padding": "0px",
-            "flexWrap": "nowrap",
-            "overflow": ""
-          },
-          "styleStr": "opacity: 0.4;\nbackground: #0F1520;\nborder-radius: 100%;",
-          "children": [],
-          "level": 2
-        }
-      ],
-      "level": 1
-    },
-    {
-      "root": false,
-      "id": "c4e74391016d0f013cdd16e92352ccae",
-      "className": "",
-      "type": "block",
-      "styleObj": {
-        "display": "flex",
-        "boxSizing": "border-box",
         "flexDirection": "column",
+        "justifyContent": "flex-end",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "405px",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {
+          "bottom": 24
+        },
+        "__padding__": {},
+        "__bgImg__": "https://tse4-mm.cn.bing.net/th/id/OIP.SYF7F3QpQaX0jvThEZFU1wHaEk?pid=Api&rs=1"
+      },
+      "styleStr": "",
+      "children": [
+        {
+          "root": false,
+          "id": "2934a9d3e37e51c9e450de52fae63b87",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "textAlign": "left",
+            "width": "600px",
+            "height": "",
+            "__whiteSpace__": "normal",
+            "__margin__": {
+              "left": 24,
+              "bottom": 16
+            },
+            "__padding__": {}
+          },
+          "styleStr": "font-family: Roboto-Medium;\nfont-size: 32px;\ncolor: #FFFFFF;\nletter-spacing: 0px;\nline-height: 48px;",
+          "content": "Batman v Superman: Dawn of Justice - Comic-Con Trailer [HD]",
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "ab1749dec44b9b857d4a98251b8f1e33",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "baseline",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "6d3ee2cf59324c8bdf8f2fb21f152d2a",
+              "className": "",
+              "type": "block",
+              "styleObj": {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "flexWrap": "nowrap",
+                "__flexBasis__": "",
+                "__width__": "",
+                "__height__": "",
+                "__margin__": {
+                  "left": 24,
+                  "bottom": 26
+                },
+                "__padding__": {},
+                "__bgImg__": ""
+              },
+              "styleStr": "",
+              "children": [
+                {
+                  "root": false,
+                  "id": "77a53b23faede80bd9a3348790b9ae41",
+                  "className": "",
+                  "type": "text",
+                  "styleObj": {
+                    "textAlign": "left",
+                    "width": "",
+                    "height": "",
+                    "__whiteSpace__": "normal",
+                    "__margin__": {
+                      "left": "",
+                      "right": 16,
+                      "top": "",
+                      "bottom": ""
+                    },
+                    "__padding__": {
+                      "left": 11,
+                      "right": 11,
+                      "top": 4,
+                      "bottom": 4
+                    }
+                  },
+                  "styleStr": "background: rgba(0,0,0,0.64);\nborder: 1px solid rgba(255,255,255,0.32);\nborder-radius: 100px;\nfont-family: Roboto-Regular;\nfont-size: 20px;\ncolor: #FFFFFF;\nletter-spacing: 0px;",
+                  "content": "03:40",
+                  "level": 4
+                },
+                {
+                  "root": false,
+                  "id": "274b8f8909b20ca3065bddd7c7d06e49",
+                  "className": "",
+                  "type": "text",
+                  "styleObj": {
+                    "textAlign": "left",
+                    "width": "440px",
+                    "height": "",
+                    "__whiteSpace__": "normal",
+                    "__margin__": {},
+                    "__padding__": {}
+                  },
+                  "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(255,255,255,0.64);\nletter-spacing: 0px;",
+                  "content": "Warner Bros  - YouTube",
+                  "level": 3
+                }
+              ],
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "c210c11a48622479e80ae5c7c3354d84",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {
+                  "left": 24,
+                  "right": 24
+                },
+                "__padding__": {},
+                "__borderRadius__": {
+                  "left": ""
+                }
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_comment.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "8c2d58481352801c9c773eacea762716",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {
+                  "right": 24
+                },
+                "__padding__": {},
+                "__borderRadius__": {}
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_share.png",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "eb51163294ca0bdc5948004ec6602dcb",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "flex-end",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "405px",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {},
+        "__padding__": {},
+        "__bgImg__": "https://tse4-mm.cn.bing.net/th/id/OIP.SYF7F3QpQaX0jvThEZFU1wHaEk?pid=Api&rs=1"
+      },
+      "styleStr": "",
+      "children": [
+        {
+          "root": false,
+          "id": "fd0d303756adb0bb8322f4e679f2f48e",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "textAlign": "left",
+            "width": "600px",
+            "height": "",
+            "__whiteSpace__": "normal",
+            "__margin__": {
+              "left": 24,
+              "bottom": 16
+            },
+            "__padding__": {}
+          },
+          "styleStr": "font-family: Roboto-Medium;\nfont-size: 32px;\ncolor: #FFFFFF;\nletter-spacing: 0px;\nline-height: 48px;",
+          "content": "Batman v Superman: Dawn of Justice - Comic-Con Trailer [HD]",
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "a2af5450f30f6607609d410551b06971",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "baseline",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "3f3a07cc3c864d06b9bf25704189c5a9",
+              "className": "",
+              "type": "block",
+              "styleObj": {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "alignItems": "center",
+                "flexWrap": "nowrap",
+                "__flexBasis__": "",
+                "__width__": "",
+                "__height__": "",
+                "__margin__": {
+                  "left": 24,
+                  "bottom": 26
+                },
+                "__padding__": {},
+                "__bgImg__": ""
+              },
+              "styleStr": "",
+              "children": [
+                {
+                  "root": false,
+                  "id": "3c2e2448bf43831d2f34cc1103ba30fb",
+                  "className": "",
+                  "type": "text",
+                  "styleObj": {
+                    "textAlign": "left",
+                    "width": "",
+                    "height": "",
+                    "__whiteSpace__": "normal",
+                    "__margin__": {
+                      "left": "",
+                      "right": 16,
+                      "top": "",
+                      "bottom": ""
+                    },
+                    "__padding__": {
+                      "left": 11,
+                      "right": 11,
+                      "top": 4,
+                      "bottom": 4
+                    }
+                  },
+                  "styleStr": "background: rgba(0,0,0,0.64);\nborder: 1px solid rgba(255,255,255,0.32);\nborder-radius: 100px;\nfont-family: Roboto-Regular;\nfont-size: 20px;\ncolor: #FFFFFF;\nletter-spacing: 0px;",
+                  "content": "03:40",
+                  "level": 4
+                },
+                {
+                  "root": false,
+                  "id": "b6d8b09604be4f20316177700ec19f67",
+                  "className": "",
+                  "type": "text",
+                  "styleObj": {
+                    "textAlign": "left",
+                    "width": "440px",
+                    "height": "",
+                    "__whiteSpace__": "normal",
+                    "__margin__": {},
+                    "__padding__": {}
+                  },
+                  "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(255,255,255,0.64);\nletter-spacing: 0px;",
+                  "content": "Warner Bros  - YouTube",
+                  "level": 3
+                }
+              ],
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "0b7cc389141fe8b1d70769f7ba005e67",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {
+                  "left": 24,
+                  "right": 24
+                },
+                "__padding__": {},
+                "__borderRadius__": {
+                  "left": ""
+                }
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_comment.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "9ff7c19b7a8cc08eef1943020d5e38d3",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {
+                  "right": 24
+                },
+                "__padding__": {},
+                "__borderRadius__": {}
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_share.png",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "0616c6ec701ec014d50eba324c587fe4",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "row",
         "justifyContent": "flex-start",
         "alignItems": "stretch",
-        "flexBasis": "",
-        "width": "335px",
-        "height": "",
-        "margin": "50px auto 0 auto",
-        "padding": "9px 40px 15px 40px",
         "flexWrap": "nowrap",
-        "overflow": ""
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {
+          "top": ""
+        },
+        "__padding__": {},
+        "__bgImg__": ""
       },
-      "styleStr": "background-image: linear-gradient(168deg, #577DB4 0%, #11356B 100%);\nborder-radius: 8px;",
+      "styleStr": "background: #0F88E0;\nposition: absolute;\nbottom: 0;\nwidth: 100%;",
       "children": [
         {
           "root": false,
-          "id": "d154536993d9b2f2b06958b5a8a9c045",
+          "id": "6498713743793e0a523ed8edb2d7fb37",
           "className": "",
-          "type": "text",
+          "type": "block",
           "styleObj": {
-            "boxSizing": "border-box",
-            "textAlign": "left",
-            "width": "",
-            "height": "",
-            "margin": "0px",
-            "padding": "0px",
-            "__whiteSpace__": "normal"
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "160px",
+            "__width__": "",
+            "__height__": "112px",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
           },
-          "styleStr": "opacity: 0.8;\nfont-size: 12px;\ncolor: #FFFFFF;\nline-height: 16px;",
-          "content": "G3 2020款 全新上市",
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "9c3a8faa550365c77bde8c320bf3f00f",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {}
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_news.png",
+              "level": 3
+            }
+          ],
           "level": 2
         },
         {
           "root": false,
-          "id": "28df6135ffd105f859dc6adc3a4debc0",
+          "id": "423a2b5e284c61a0b8b6fd2e03133b47",
           "className": "",
-          "type": "text",
+          "type": "block",
           "styleObj": {
-            "boxSizing": "border-box",
-            "textAlign": "left",
-            "width": "",
-            "height": "",
-            "margin": "2px 0 0 0",
-            "padding": "0px",
-            "__whiteSpace__": "normal"
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "240px",
+            "__width__": "",
+            "__height__": "112px",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
           },
-          "styleStr": "font-size: 18px;\ncolor: #FFFFFF;\nletter-spacing: 0.82px;\ntext-align: left;\nline-height: 24px;\ntext-shadow: 0 4px 8px rgba(32,62,107,0.08);",
-          "content": "特惠仅剩3天！",
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "720c75429a5028cccd20455ce3f4d8e0",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {}
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_video.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "409fe9d7f03cfbad2380532f56e2cda9",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {}
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: #FFFFFF;",
+              "content": "Video",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "8b8b0c43451c5cad4d4f35e2300721f8",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "160px",
+            "__width__": "",
+            "__height__": "112px",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "1dc5f5873fd5f266f40d1abe516dc192",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {}
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_explorer.png",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "baa2e77332f34bfd8015f0d4545e5fc7",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "160px",
+            "__width__": "",
+            "__height__": "112px",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": ""
+          },
+          "styleStr": "position: relative;",
+          "children": [
+            {
+              "root": false,
+              "id": "29b464f58da4d2ed4972b506bea67c3f",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "48px",
+                "height": "48px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {}
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_profile.png",
+              "level": 3
+            }
+          ],
           "level": 2
         }
       ],
       "level": 1
     }
   ],
-  "level": 0
+  "level": 0,
+  "designWidth": 720
 }
