@@ -1,0 +1,1135 @@
+{
+  "root": true,
+  "className": "",
+  "type": "block",
+  "styleObj": {
+    "display": "flex",
+    "flexDirection": "column",
+    "justifyContent": "flex-start",
+    "alignItems": "stretch",
+    "flexWrap": "nowrap",
+    "__flexBasis__": "100%",
+    "__width__": "",
+    "__height__": "",
+    "__margin__": {},
+    "__padding__": {},
+    "minWidth": "100%",
+    "minHeight": "100%",
+    "flex": 1,
+    "__bgImg__": "",
+    "flexGrow": 0
+  },
+  "styleStr": "background: #F0F0F0;",
+  "children": [
+    {
+      "root": false,
+      "id": "e6d99303813141d3f4629455a45a7712",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {},
+        "__padding__": {
+          "left": 128,
+          "top": 33,
+          "bottom": 33
+        },
+        "__bgImg__": ""
+      },
+      "styleStr": "background: #FFFFFF;",
+      "children": [
+        {
+          "root": false,
+          "id": "c856714764c0dfa94ef47724defa2ae8",
+          "className": "",
+          "type": "text",
+          "styleObj": {
+            "textAlign": "left",
+            "width": "",
+            "height": "",
+            "__whiteSpace__": "normal",
+            "__margin__": {},
+            "__padding__": {},
+            "flexGrow": 0
+          },
+          "styleStr": "font-family: Roboto-Medium;\nfont-size: 40px;\ncolor: #0F88E0;",
+          "content": "Profile",
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "7873505b4400d76b6557136ab7a19d19",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {
+          "top": 24
+        },
+        "__padding__": {
+          "left": 24,
+          "right": 24,
+          "top": 40,
+          "bottom": 40
+        },
+        "__bgImg__": "",
+        "flexGrow": 0
+      },
+      "styleStr": "background: #FFFFFF;",
+      "children": [
+        {
+          "root": false,
+          "id": "c69cffd85e4190fa209dc06321c37f36",
+          "className": "",
+          "type": "image",
+          "styleObj": {
+            "overflow": "hidden",
+            "flexShrink": 0,
+            "width": "80px",
+            "height": "80px",
+            "borderRadius": "0px",
+            "__margin__": {
+              "right": 24
+            },
+            "__padding__": {},
+            "__borderRadius__": {
+              "left": 100,
+              "right": 100,
+              "top": 100,
+              "bottom": 100
+            },
+            "flexGrow": 0
+          },
+          "styleStr": "",
+          "src": "https://tse1-mm.cn.bing.net/th/id/OIP.17wmxpaDzMqmmtdFnueNhgAAAA?pid=Api&rs=1",
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "e4f6bc7ff0e9bb677a0bcdc0e5fec71e",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "flex-start",
+            "alignItems": "stretch",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {},
+            "__padding__": {},
+            "__bgImg__": "",
+            "flexGrow": 1
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "847d53abb1e9862c5f8ed04c5d3415e2",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Majin Buu",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "5dc8d8496c9e7e697de64c191c2e7104",
+              "className": "",
+              "type": "block",
+              "styleObj": {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "alignItems": "stretch",
+                "flexWrap": "nowrap",
+                "__flexBasis__": "",
+                "__width__": "",
+                "__height__": "",
+                "__margin__": {},
+                "__padding__": {},
+                "flexGrow": 0,
+                "__bgImg__": ""
+              },
+              "styleStr": "",
+              "children": [
+                {
+                  "root": false,
+                  "id": "bf09fd5e79756f80786dddc620f6e314",
+                  "className": "",
+                  "type": "image",
+                  "styleObj": {
+                    "overflow": "hidden",
+                    "flexShrink": 0,
+                    "width": "32px",
+                    "height": "32px",
+                    "borderRadius": "0px",
+                    "__margin__": {},
+                    "__padding__": {},
+                    "__borderRadius__": {},
+                    "flexGrow": 0
+                  },
+                  "styleStr": "",
+                  "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_location.png",
+                  "level": 4
+                },
+                {
+                  "root": false,
+                  "id": "f54bda1185eaaf7175486dd0fbd270e2",
+                  "className": "",
+                  "type": "text",
+                  "styleObj": {
+                    "textAlign": "left",
+                    "width": "",
+                    "height": "",
+                    "__whiteSpace__": "normal",
+                    "__margin__": {},
+                    "__padding__": {},
+                    "flexGrow": 0
+                  },
+                  "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+                  "content": "Dragonball",
+                  "level": 4
+                }
+              ],
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "dd71cbdfaf8d20c31c89c73ac9552dee",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {},
+            "__padding__": {},
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "",
+          "children": [
+            {
+              "root": false,
+              "id": "3524e71e55f684062f7ddd56be110ec4",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": 18,
+                  "right": 18,
+                  "top": 10,
+                  "bottom": 10
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "border: 1px solid #797D82;\nborder-radius: 4px;\nfont-family: Roboto-Regular;\nfont-size: 24px;\ncolor: #797D82;",
+              "content": "LOGOUT",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "b07b8007f2c44a216cee9a4da523aeb0",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "flex-start",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {
+          "top": 24
+        },
+        "__padding__": {},
+        "flexGrow": 0,
+        "__bgImg__": ""
+      },
+      "styleStr": "background: #FFFFFF;",
+      "children": [
+        {
+          "root": false,
+          "id": "5dc67c5b7e49964f4fb75e125533a5bb",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "f27103694e6d2296f536316d4dffce15",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_notification.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "e3bd6f9d684da30beefdb98bc004fbb9",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Notification",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "467b39aaf146f3d8c2df5165204eff68",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "center",
+                "width": "32px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "background: #E33310;\nborder-radius: 100px;\nfont-family: Roboto-Regular;\nfont-size: 22px;\ncolor: #FFFFFF;",
+              "content": "9",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "6851a7505cbc43940e8135c7fb8d6ba2",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "8d09649c27369d7ecc381cf8496bcc53",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_likes.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "dbba6de526ea459aef5bff493ee526d9",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Likes",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "dce2f0a7a6abca0cad67f07248e832a9",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "right",
+                "width": "32px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "215",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "2b9f6d5c89b1fa9b2d12b6c8566a7b92",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "976d752828565f8ce1c5427d6a9aa6e6",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_comments.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "568d4884adebf5234217f8ea9159a96d",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Comments",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "7708f12851273b427e3b14e688dbdddb",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "right",
+                "width": "32px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "64",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "c6519d2d05ba84f8d111119daf7093f4",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "flex-start",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {
+          "top": 24
+        },
+        "__padding__": {},
+        "flexGrow": 0,
+        "__bgImg__": ""
+      },
+      "styleStr": "background: #FFFFFF;",
+      "children": [
+        {
+          "root": false,
+          "id": "f978c0e70dd1700638ab90306b50ac27",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "2ee6f2d25a72a4f3e982352ef34064d3",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_offline.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "04b41508ef23d692dfdadd3da99cb93b",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Offline news",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "232e28dd5eec8e3a4e9f8313dc00b69d",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "center",
+                "width": "111px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "Automatic",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "c4dc528e2a88e6f005b17b342d32860b",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "22c3e08b3426b69ac0633da085242540",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_fontsize.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "70b68d91613eedf2d00f41d245401ea3",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Font size",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "d3a2f08242df7e8098a3b2ec09e6dcbc",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "right",
+                "width": "111px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "Medium",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "cc0af817c27fda363a64df138741195d",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "9e654071f55d718c3aaa62a80f8dda92",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_languages.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "b5bc06bd1f38c175ce59a6f9c5d2f5e2",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Languages",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "1bab9157482993c24427d1383857e6df",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "right",
+                "width": "111px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "English",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    },
+    {
+      "root": false,
+      "id": "faf4d31a0b8782a1b902a4fa5aaed666",
+      "className": "",
+      "type": "block",
+      "styleObj": {
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "flex-start",
+        "alignItems": "stretch",
+        "flexWrap": "nowrap",
+        "__flexBasis__": "",
+        "__width__": "",
+        "__height__": "",
+        "__margin__": {
+          "top": 24
+        },
+        "__padding__": {},
+        "flexGrow": 0,
+        "__bgImg__": ""
+      },
+      "styleStr": "background: #FFFFFF;",
+      "children": [
+        {
+          "root": false,
+          "id": "3414bb0f1de88f1902a24db6fe6d777f",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "84c98d8d4a2e316fc8ba7bde30407108",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_feedback.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "23d5527045d1fdbfc481269749cdbc7d",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "Feedback",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "ab1ec15e9361c2bed6c43058e8d7a474",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "center",
+                "width": "111px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "",
+              "level": 3
+            }
+          ],
+          "level": 2
+        },
+        {
+          "root": false,
+          "id": "1a7d055d3d65dab44bcaebac8d3b2ba6",
+          "className": "",
+          "type": "block",
+          "styleObj": {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+            "alignItems": "center",
+            "flexWrap": "nowrap",
+            "__flexBasis__": "",
+            "__width__": "",
+            "__height__": "",
+            "__margin__": {
+              "left": "",
+              "right": "",
+              "top": "",
+              "bottom": ""
+            },
+            "__padding__": {
+              "left": 32,
+              "right": 32,
+              "top": 30,
+              "bottom": 31
+            },
+            "flexGrow": 0,
+            "__bgImg__": ""
+          },
+          "styleStr": "border-bottom: 1px solid #F0F0F0;",
+          "children": [
+            {
+              "root": false,
+              "id": "6b6dcb613e54333c0241ea210a70da09",
+              "className": "",
+              "type": "image",
+              "styleObj": {
+                "overflow": "hidden",
+                "flexShrink": 0,
+                "width": "32px",
+                "height": "32px",
+                "borderRadius": "0px",
+                "__margin__": {},
+                "__padding__": {},
+                "__borderRadius__": {},
+                "flexGrow": 0
+              },
+              "styleStr": "",
+              "src": "https://utom.design/news/assets/drawable-xxhdpi/icon_about.png",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "262e0c568008eb2bb893c35392a2bae4",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "left",
+                "width": "",
+                "height": "",
+                "__whiteSpace__": "normal",
+                "__margin__": {
+                  "left": 48
+                },
+                "__padding__": {},
+                "flexGrow": 1
+              },
+              "styleStr": "font-family: Roboto-Medium;\nfont-size: 30px;\ncolor: #222222;\nletter-spacing: 0px;",
+              "content": "About",
+              "level": 3
+            },
+            {
+              "root": false,
+              "id": "61ea89594a809dca97a2ac8092369eaf",
+              "className": "",
+              "type": "text",
+              "styleObj": {
+                "textAlign": "right",
+                "width": "181px",
+                "height": "32px",
+                "__whiteSpace__": "normal",
+                "__margin__": {},
+                "__padding__": {
+                  "left": "",
+                  "right": "",
+                  "top": "",
+                  "bottom": ""
+                },
+                "flexGrow": 0
+              },
+              "styleStr": "font-family: Roboto-Regular;\nfont-size: 24px;\ncolor: rgba(32,32,32,0.50);",
+              "content": "v.2.0 (19861111)",
+              "level": 3
+            }
+          ],
+          "level": 2
+        }
+      ],
+      "level": 1
+    }
+  ],
+  "level": 0,
+  "designWidth": 720
+}
