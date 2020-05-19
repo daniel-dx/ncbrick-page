@@ -19,4 +19,5 @@ module.exports = async () => {
       resolve()
     })
   })
+  await fs.copy('data/video/ncbrick.mp4', dir + '/ncbrick.mp4');
 };
